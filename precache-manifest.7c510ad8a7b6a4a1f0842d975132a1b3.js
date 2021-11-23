@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b1d8af121049da6e945944241373b57",
+    "revision": "723d2d09c55359a5e9b6426bc4a9e6ae",
     "url": "/eventosmanto/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eventosmanto/static/css/2.3d4cb6ed.chunk.css"
   },
   {
-    "revision": "0064cf92da50cfff8ab2",
+    "revision": "48e820e3e8ea5e672f4c",
     "url": "/eventosmanto/static/css/main.cd24a890.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eventosmanto/static/js/2.42dc9ac6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0064cf92da50cfff8ab2",
-    "url": "/eventosmanto/static/js/main.7e13e2e6.chunk.js"
+    "revision": "48e820e3e8ea5e672f4c",
+    "url": "/eventosmanto/static/js/main.5e84a5db.chunk.js"
   },
   {
     "revision": "e2efdcd16d7db57def7e",
